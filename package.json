@@ -1,0 +1,21 @@
+{
+  "name": "mean-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://PedroCisternas@bitbucket.org/PedroCisternas/mean-template.git"
+  },
+  "author": "Pedro Cisternas",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/PedroCisternas/mean-template#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "compression": "^1.6.1",
+    "express": "^4.13.4"
+  }
+}
